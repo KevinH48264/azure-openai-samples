@@ -5,6 +5,7 @@ openai
 jupyter
 
 # Other packages needed to run the notebook samples
+json
 pytz
 pandas
 tenacity
