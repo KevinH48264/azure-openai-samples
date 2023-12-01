@@ -1,7 +1,7 @@
 {
-    "DEPLOYMENT_NAME":"<Model Deployment Name>",
-    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
-    "OPENAI_API_VERSION":"<OpenAI API Version>",
+    "DEPLOYMENT_NAME":"gpt-4-0613",
+    "OPENAI_API_BASE":"https://kevin-test-sweden-central.openai.azure.com",
+    "OPENAI_API_VERSION":"2023-05-15",
     
     "SEARCH_SERVICE_ENDPOINT": "https://<Your Search Service Name>.search.windows.net",
     "SEARCH_INDEX_NAME": "recipes-vectors",
